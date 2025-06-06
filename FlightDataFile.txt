@@ -1,0 +1,17 @@
+16
+Dallas|Austin|120|45
+Austin|Houston|150|55
+Houston|NewYork|350|180
+Dallas|Chicago|200|100
+Chicago|NewYork|250|140
+Dallas|Denver|300|120
+Denver|SanFrancisco|400|150
+SanFrancisco|Seattle|200|100
+Austin|ElPaso|180|90
+ElPaso|Seattle|350|180
+Dallas|Phoenix|220|110
+Phoenix|SanFrancisco|280|130
+Houston|Phoenix|230|120
+Chicago|Denver|190|90
+Denver|NewYork|500|210
+Austin|Chicago|250|130

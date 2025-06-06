@@ -1,0 +1,7 @@
+6
+Dallas|NewYork|T
+Dallas|Seattle|C
+Austin|Seattle|T
+Chicago|NewYork|C
+Austin|Denver|T
+Houston|SanFrancisco|C

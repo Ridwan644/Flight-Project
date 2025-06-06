@@ -1,0 +1,36 @@
+
+Flight 1: 
+Flight: Dallas, NewYork (Time)
+Path 1: Dallas -> Chicago -> NewYork. Time: 240 Cost: 450
+Path 2: Dallas -> Austin -> Houston -> NewYork. Time: 280 Cost: 620
+Path 3: Dallas -> Austin -> Chicago -> NewYork. Time: 315 Cost: 620
+
+Flight 2: 
+Flight: Dallas, Seattle (Cost)
+Path 1: Dallas -> Austin -> ElPaso -> Seattle. Time: 315 Cost: 650
+Path 2: Dallas -> Phoenix -> SanFrancisco -> Seattle. Time: 340 Cost: 700
+Path 3: Dallas -> Denver -> SanFrancisco -> Seattle. Time: 370 Cost: 900
+
+Flight 3: 
+Flight: Austin, Seattle (Time)
+Path 1: Austin -> ElPaso -> Seattle. Time: 270 Cost: 530
+Path 2: Austin -> Dallas -> Phoenix -> SanFrancisco -> Seattle. Time: 385 Cost: 820
+Path 3: Austin -> Houston -> Phoenix -> SanFrancisco -> Seattle. Time: 405 Cost: 860
+
+Flight 4: 
+Flight: Chicago, NewYork (Cost)
+Path 1: Chicago -> NewYork. Time: 140 Cost: 250
+Path 2: Chicago -> Denver -> NewYork. Time: 300 Cost: 690
+Path 3: Chicago -> Austin -> Houston -> NewYork. Time: 365 Cost: 750
+
+Flight 5: 
+Flight: Austin, Denver (Time)
+Path 1: Austin -> Dallas -> Denver. Time: 165 Cost: 420
+Path 2: Austin -> Chicago -> Denver. Time: 220 Cost: 440
+Path 3: Austin -> Dallas -> Chicago -> Denver. Time: 235 Cost: 510
+
+Flight 6: 
+Flight: Houston, SanFrancisco (Cost)
+Path 1: Houston -> Phoenix -> SanFrancisco. Time: 250 Cost: 510
+Path 2: Houston -> Austin -> Dallas -> Phoenix -> SanFrancisco. Time: 340 Cost: 770
+Path 3: Houston -> Austin -> ElPaso -> Seattle -> SanFrancisco. Time: 425 Cost: 880
